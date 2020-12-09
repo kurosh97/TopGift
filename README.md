@@ -41,3 +41,5 @@
      - English
      - Finnish
 
+
+Authors: @Niklas nilsson

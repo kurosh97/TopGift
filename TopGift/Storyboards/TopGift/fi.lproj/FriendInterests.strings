@@ -1,0 +1,19 @@
+
+/* Class = "UINavigationItem"; title = "Friend's Interests"; ObjectID = "CWz-1t-B0T"; */
+"CWz-1t-B0T.title" = "Kaverin mielenkiinnot";
+
+/* Class = "UIButton"; normalTitle = "Personality"; ObjectID = "DNf-YG-c5D"; */
+"DNf-YG-c5D.normalTitle" = "Luonne";
+
+/* Class = "UIButton"; normalTitle = "Show Products"; ObjectID = "PgZ-Xe-x3b"; */
+"PgZ-Xe-x3b.normalTitle" = "Näytä tuotteet";
+
+/* Class = "UIButton"; normalTitle = "Size"; ObjectID = "emx-2t-dP0"; */
+"emx-2t-dP0.normalTitle" = "Koot";
+
+/* Class = "UIButton"; normalTitle = "Categories"; ObjectID = "gkc-65-DD0"; */
+"gkc-65-DD0.normalTitle" = "Vaatekategoriat";
+
+/* Class = "UILabel"; text = "Price Range"; ObjectID = "vOQ-t6-109"; */
+"vOQ-t6-109.text" = "Hinta";
+

@@ -1,0 +1,12 @@
+stages: 
+ - build
+build_project:
+    stage: build
+    script:
+        - rm -rf Pods;rm -rf TopGift.xcworkspace;rm -rf TopGift.xcodeproj/project.xcworkspace
+        - pod install
+        - xcodebuild clean -workspace TopGift.xcworkspace -scheme TopGift | xcpretty
+        - xcodebuild test -workspace TopGift.xcworkspace -scheme TopGift -destination 'platform=iOS Simulator,name=iPhone 11 Pro Max,OS=13.5' | xcpretty -s
+    tags: 
+    - iOS-TopGift
+    

@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Persons Address"; ObjectID = "1fl-sJ-QZf"; */
+"1fl-sJ-QZf.text" = "Henkilön osoite";
+
+/* Class = "UIButton"; normalTitle = "Add friend’s interests"; ObjectID = "DOY-eb-5FN"; */
+"DOY-eb-5FN.normalTitle" = "Etsi vaate-ehdotuksia";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "Ll7-Un-3Y8"; */
+"Ll7-Un-3Y8.text" = "Sijainti";
+
+/* Class = "UILabel"; text = "Persons Name"; ObjectID = "kBf-F7-F8Z"; */
+"kBf-F7-F8Z.text" = "Henkilön nimi";
+
+/* Class = "UIButton"; normalTitle = "Show sugestions"; ObjectID = "kb9-V2-36g"; */
+"kb9-V2-36g.normalTitle" = "Näytä ehdotukset";
+
+/* Class = "UINavigationItem"; title = "Recent Friends"; ObjectID = "zs9-1x-PZk"; */
+"zs9-1x-PZk.title" = "Viimeiset kaverit";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "zsi-z2-F6A"; */
+"zsi-z2-F6A.text" = "Nimi";

@@ -1,0 +1,18 @@
+
+/* Class = "UINavigationItem"; title = "Friend's Interests"; ObjectID = "CWz-1t-B0T"; */
+"CWz-1t-B0T.title" = "Friend's Interests";
+
+/* Class = "UIButton"; normalTitle = "Personality"; ObjectID = "DNf-YG-c5D"; */
+"DNf-YG-c5D.normalTitle" = "Personality";
+
+/* Class = "UIButton"; normalTitle = "Show Products"; ObjectID = "PgZ-Xe-x3b"; */
+"PgZ-Xe-x3b.normalTitle" = "Show Products";
+
+/* Class = "UIButton"; normalTitle = "Size"; ObjectID = "emx-2t-dP0"; */
+"emx-2t-dP0.normalTitle" = "Size";
+
+/* Class = "UIButton"; normalTitle = "Categories"; ObjectID = "gkc-65-DD0"; */
+"gkc-65-DD0.normalTitle" = "Categories";
+
+/* Class = "UILabel"; text = "Price Range"; ObjectID = "vOQ-t6-109"; */
+"vOQ-t6-109.text" = "Price Range";

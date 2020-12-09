@@ -1,0 +1,25 @@
+/* 
+  File.strings
+  TopGift
+
+  Created by Micky on 1.12.2020.
+  Copyright © 2020 IOS-BOYS. All rights reserved.
+*/
+
+"Energetic Colors" = "[\"punainen\", \"keltainen\", \"oranssi\", \"tummansininen\"]";
+
+"Kind Colors" = "[\"sininen\", \"sinivihreä\", \"turkoosi\", \"vihreä\", \"liila\", \"oliivinivihreä\"]";
+
+"Peaceful Colors" = "[\"white\", \"gray\", \"yellow\", \"beige\", \"lilac\", \"olive\"]";
+
+"Fun Colors" = "[\"petrol\", \"green\", \"pink\", \"yellow\", \"orange\", \"red\"]";
+
+"Personality List" = "[\"Energinen\", \"Mukava\", \"Rauhallinen\", \"Hauska\"]";
+
+"Categories List" = "[\"Paidat\", \"Neuleet\", \"Villapaidat\", \"Mekot\", \"Housut\", \"Hame\", \"Bleiseri\", \"Takki\", \"Kengät\", \"Käsilaukut\", \"Haalari\"]";
+
+"Value does not exist" = "Ei asetettu.";
+
+"Shoes" = "Kengät";
+
+"Size" = "Koko";

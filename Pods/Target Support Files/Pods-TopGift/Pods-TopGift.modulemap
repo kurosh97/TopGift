@@ -1,0 +1,6 @@
+framework module Pods_TopGift {
+  umbrella header "Pods-TopGift-umbrella.h"
+
+  export *
+  module * { export * }
+}

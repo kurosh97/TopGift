@@ -1,0 +1,26 @@
+/* 
+  File.strings
+  TopGift
+
+  Created by Micky on 1.12.2020.
+  Copyright © 2020 IOS-BOYS. All rights reserved.
+*/
+
+"Energetic Colors" = "[\"red\", \"yellow\", \"orange\", \"dark blue\"]";
+
+"Kind Colors" = "[\"blue\", \"petrol\", \"turquoise\", \"green\", \"lilac\", \"olive\"]";
+
+"Peaceful Colors" = "[\"white\", \"gray\", \"yellow\", \"beige\", \"lilac\", \"olive\"]";
+
+"Fun Colors" = "[\"petrol\", \"green\", \"pink\", \"yellow\", \"orange\", \"red\"]";
+
+"Personality List" = "[\"Energetic\", \"Kind\", \"Peaceful\", \"Fun\", \"orange\", \"red\"]";
+
+"Categories List" = "[\"Shirts\", \"Blouses\", \"Sweaters\", \"Dresses\", \"Pants\", \"Skirts\", \"Blazers\", \"Jackets\", \"Shoes\", \"Handbags\", \"Jumpsuit\", \"Unclassified\"]";
+
+
+"Value does not exist" = "Ei asetettu.";
+
+"Shoes" = "Shoes";
+
+"Size" = "Size";

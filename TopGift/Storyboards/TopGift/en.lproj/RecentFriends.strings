@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Persons Address"; ObjectID = "1fl-sJ-QZf"; */
+"1fl-sJ-QZf.text" = "Persons Address";
+
+/* Class = "UIButton"; normalTitle = "Add friend’s interests"; ObjectID = "DOY-eb-5FN"; */
+"DOY-eb-5FN.normalTitle" = "Look for gift ideas";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "Ll7-Un-3Y8"; */
+"Ll7-Un-3Y8.text" = "Location";
+
+/* Class = "UILabel"; text = "Persons Name"; ObjectID = "kBf-F7-F8Z"; */
+"kBf-F7-F8Z.text" = "Persons Name";
+
+/* Class = "UINavigationItem"; title = "Recent Friends"; ObjectID = "zs9-1x-PZk"; */
+"zs9-1x-PZk.title" = "Recent Friends";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "zsi-z2-F6A"; */
+"zsi-z2-F6A.text" = "Name";

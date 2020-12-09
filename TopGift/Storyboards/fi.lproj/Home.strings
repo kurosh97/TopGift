@@ -1,0 +1,90 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3S0-AV-Ce1"; */
+"3S0-AV-Ce1.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "4zF-hb-R4g"; */
+"4zF-hb-R4g.title" = "Koti";
+
+/* Class = "UILabel"; text = "Hometown"; ObjectID = "6ez-G5-mjy"; */
+"6ez-G5-mjy.text" = "Kotipaikka";
+
+/* Class = "UINavigationItem"; title = "New Friend"; ObjectID = "84O-Vs-V7j"; */
+"84O-Vs-V7j.title" = "Uusi ystävä";
+
+/* Class = "UILabel"; text = "Hometown (Optional)"; ObjectID = "85q-9e-BhF"; */
+"85q-9e-BhF.text" = "Kotipaikka (valinnainen)";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "EWF-D8-EPO"; */
+"EWF-D8-EPO.text" = "Puhelin";
+
+/* Class = "UITextField"; placeholder = "Enter gender"; ObjectID = "HAN-lm-ay7"; */
+"HAN-lm-ay7.placeholder" = "Syötä sukupuoli";
+
+/* Class = "UILabel"; text = "Email (Optional)"; ObjectID = "JHo-Tf-QvD"; */
+"JHo-Tf-QvD.text" = "Sähköposti (valinnainen)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NG3-fF-dRs"; */
+"NG3-fF-dRs.text" = "Label";
+
+/* Class = "UILabel"; text = "Phone (Optional)"; ObjectID = "OXe-H5-DtS"; */
+"OXe-H5-DtS.text" = "Puh.nro (Optional)";
+
+/* Class = "UILabel"; text = "Full name"; ObjectID = "PIC-Os-YdV"; */
+"PIC-Os-YdV.text" = "Kokonimi";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RF6-wF-EAA"; */
+"RF6-wF-EAA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X7p-ta-ocF"; */
+"X7p-ta-ocF.text" = "Label";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "acI-kD-OYg"; */
+"acI-kD-OYg.text" = "Ikä";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "bVu-yT-wF2"; */
+"bVu-yT-wF2.placeholder" = "Syötä s-posti";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "etn-lB-tEk"; */
+"etn-lB-tEk.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter phone"; ObjectID = "fer-fQ-Ncg"; */
+"fer-fQ-Ncg.placeholder" = "Syötä puh.nro";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "inb-YO-Ndv"; */
+"inb-YO-Ndv.title" = "Item";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "k20-hT-Z2v"; */
+"k20-hT-Z2v.text" = "Sukupuoli";
+
+/* Class = "UILabel"; text = "Gender (Optional)"; ObjectID = "nY3-fd-Ftm"; */
+"nY3-fd-Ftm.text" = "Sukupuoli (valinnainen)";
+
+/* Class = "UITextField"; placeholder = "Enter hometown"; ObjectID = "o0l-d2-yPp"; */
+"o0l-d2-yPp.placeholder" = "Syötä kotipaikka";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "pXd-Pm-tvW"; */
+"pXd-Pm-tvW.text" = "Sähköposti";
+
+/* Class = "UILabel"; text = "City name"; ObjectID = "rRP-VI-mXc"; */
+"rRP-VI-mXc.text" = "Kotipaikka";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "rn2-sb-hlS"; */
+"rn2-sb-hlS.placeholder" = "Etsi";
+
+/* Class = "UILabel"; text = "Choose profile image"; ObjectID = "rtA-ky-el0"; */
+"rtA-ky-el0.text" = "Valitse profiilikuva";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "vcf-DL-nnh"; */
+"vcf-DL-nnh.text" = "Nimi";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "wUw-Lx-w8a"; */
+"wUw-Lx-w8a.placeholder" = "Syötä nimi";
+
+/* Class = "UITextField"; placeholder = "Enter age"; ObjectID = "wVj-iZ-KUF"; */
+"wVj-iZ-KUF.placeholder" = "Syötä ikä";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zDl-mV-58u"; */
+"zDl-mV-58u.text" = "Label";
+
+/* Class = "UILabel"; text = "Age (Optional)"; ObjectID = "zx6-Dl-YUU"; */
+"zx6-Dl-YUU.text" = "Ikä (valinnainen)";

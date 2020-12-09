@@ -1,0 +1,27 @@
+
+/* Class = "UINavigationItem"; title = "Shopping Cart"; ObjectID = "3cZ-2f-Ni0"; */
+"3cZ-2f-Ni0.title" = "Shopping Cart";
+
+/* Class = "UILabel"; text = "colorLabel"; ObjectID = "AXW-Co-mMS"; */
+"AXW-Co-mMS.text" = "colorLabel";
+
+/* Class = "UILabel"; text = "priceLabel"; ObjectID = "FCV-42-mHn"; */
+"FCV-42-mHn.text" = "priceLabel";
+
+/* Class = "UILabel"; text = "Size:"; ObjectID = "QS7-9h-C4u"; */
+"QS7-9h-C4u.text" = "Size:";
+
+/* Class = "UILabel"; text = "sizeLabel"; ObjectID = "SJS-c5-IhW"; */
+"SJS-c5-IhW.text" = "sizeLabel";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "UYQ-pb-x1d"; */
+"UYQ-pb-x1d.text" = "1";
+
+/* Class = "UILabel"; text = "Product Label"; ObjectID = "UgE-Y2-geG"; */
+"UgE-Y2-geG.text" = "Product Label";
+
+/* Class = "UILabel"; text = "Price:"; ObjectID = "azI-ms-F04"; */
+"azI-ms-F04.text" = "Price:";
+
+/* Class = "UILabel"; text = "Color:"; ObjectID = "w6I-eK-e2p"; */
+"w6I-eK-e2p.text" = "Color:";

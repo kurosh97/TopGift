@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Clothe Name"; ObjectID = "42h-V1-FJy"; */
+"42h-V1-FJy.text" = "Clothe Name";
+
+/* Class = "UITextView"; text = "This is some text This is some text This is some text This is some text This is some text This is some text This is some text"; ObjectID = "CxO-GZ-H3M"; */
+"CxO-GZ-H3M.text" = "This is some text This is some text This is some text This is some text This is some text This is some text This is some text";
+
+/* Class = "UITextField"; placeholder = "Pick Size"; ObjectID = "Gto-Ls-em1"; */
+"Gto-Ls-em1.placeholder" = "Pick Size";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "IeM-Tm-60b"; */
+"IeM-Tm-60b.text" = "Price";
+
+/* Class = "UILabel"; text = "Product"; ObjectID = "Xag-ck-hiJ"; */
+"Xag-ck-hiJ.text" = "Product";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "YTQ-mC-Vty"; */
+"YTQ-mC-Vty.text" = "Price";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "e9S-df-ehk"; */
+"e9S-df-ehk.text" = "Color";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "feJ-cA-fRU"; */
+"feJ-cA-fRU.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Add To Cart"; ObjectID = "ga8-Eq-rvJ"; */
+"ga8-Eq-rvJ.normalTitle" = "Add To Cart";
+
+/* Class = "UINavigationItem"; title = "Products"; ObjectID = "jUI-HL-HcE"; */
+"jUI-HL-HcE.title" = "Products";

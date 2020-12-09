@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Clothe Name"; ObjectID = "42h-V1-FJy"; */
+"42h-V1-FJy.text" = "Vaatteen Nimi";
+
+/* Class = "UITextView"; text = "This is some text This is some text This is some text This is some text This is some text This is some text This is some text"; ObjectID = "CxO-GZ-H3M"; */
+"CxO-GZ-H3M.text" = "Tämän on jotain tekstiä Tämän on jotain tekstiä Tämän on jotain tekstiä Tämän on jotain tekstiä Tämän on jotain tekstiä Tämän on jotain tekstiä Tämän on jotain tekstiä";
+
+/* Class = "UITextField"; placeholder = "Pick Size"; ObjectID = "Gto-Ls-em1"; */
+"Gto-Ls-em1.placeholder" = "Valitse Koko";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "IeM-Tm-60b"; */
+"IeM-Tm-60b.text" = "Hinta";
+
+/* Class = "UILabel"; text = "Product"; ObjectID = "Xag-ck-hiJ"; */
+"Xag-ck-hiJ.text" = "Tuote";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "YTQ-mC-Vty"; */
+"YTQ-mC-Vty.text" = "Hinta";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "e9S-df-ehk"; */
+"e9S-df-ehk.text" = "Väri";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "feJ-cA-fRU"; */
+"feJ-cA-fRU.title" = "Takaisin";
+
+/* Class = "UIButton"; normalTitle = "Add To Cart"; ObjectID = "ga8-Eq-rvJ"; */
+"ga8-Eq-rvJ.normalTitle" = "Lisää ostoskoriin";
+
+/* Class = "UINavigationItem"; title = "Products"; ObjectID = "jUI-HL-HcE"; */
+"jUI-HL-HcE.title" = "Tuotteet";

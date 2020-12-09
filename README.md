@@ -12,13 +12,13 @@
 ## Features
 
 1. Friends
-  - List 
-  - Add
-  - Edit
-  - View
+    - List 
+    - Add
+    - Edit
+    - View
 
 2. Recent Friends
-  - Viewed friends are added to this list
+   - Viewed friends are added to this list
 
 3. Filter page (Friend’s Interests)
    - Personality 
@@ -28,16 +28,16 @@
  4. Products list
 
  5. Single Product View
-   - Add to Cart
+    - Add to Cart
  
  6. Shopping Cart
-   - Open  shopping item 
-   - webpage in WebKitView
+    - Open  shopping item 
+    - webpage in WebKitView
    
  7. Unit testing
-   - Faster update deployment
+     - Faster update deployment
  
  8. Localization
-  - English
-  - Finnish
+     - English
+     - Finnish
 

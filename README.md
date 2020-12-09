@@ -1,12 +1,43 @@
 
-
 # TopGift
-With TopGift you can find the best gift for your loved ones. write to your friend or family member's name and it provides you with the best gift you can find on the internet. It searches for the person's information on the internet and provides the gift based on the data it gets from the internet.
 
-You can optimize how much money you want to spend on the gift and if there is no information on the internet our app asks the user person's information, for example. favorite color, hobbies, and so on. 
+## Application idea
+
+* Find a gift for a friend that suits his/her personality
+* User can buy the product from Zalando webpage, our app guides user in the right page.
+  List of friends
+* Save category, size, price range and personality as a preference to Friend Item
 
 
+## Features
 
+1. Friends
+  - List 
+  - Add
+  - Edit
+  - View
 
+2. Recent Friends
+  - Viewed friends are added to this list
 
+3. Filter page (Friend’s Interests)
+   - Personality 
+   - category 
+   - size 
+   - price range
+ 4. Products list
+
+ 5. Single Product View
+   - Add to Cart
+ 
+ 6. Shopping Cart
+   - Open  shopping item 
+   - webpage in WebKitView
+   
+ 7. Unit testing
+   - Faster update deployment
+ 
+ 8. Localization
+  - English
+  - Finnish
 

@@ -42,4 +42,8 @@
      - Finnish
 
 
-Authors: @Niklas nilsson
+Authors: 
+@Niklas Nilsson
+@Michael Lock
+@Juhana Tamminen
+@Kurosh Husseini
